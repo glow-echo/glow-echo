@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**glow-echo/glow-echo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack developer based in India. 
 
-Here are some ideas to get you started:
+- Check out my [instagram](https://www.instagram.com/glow.echo/) to learn more about me.
+- Explore my [youtube](https://www.youtube.com/channel/UCJCePr9Bxc_7pwQCPOaHe7A) where I share insights and learnings.
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `Html` `Css` `Javascript` `Bootstrap` `Tailwind` `Sass` `React` `TypeScript` 
+ 
+**Version Control:** `Git` `GitLab` 
+
+**Backend Development:** `Nest.js` 
+
+**Database:** `Mongodb` `Mysql` 
+
+**Programming:**  `C` `Python`
+
+**Others:** `Wordpress` `Shopify` `Ms-Office`
+
+**Deployment:** `Github` `Netlify` `Heroku`
+ 
+## ✨ Fun Facts 
+
+- As a kid, I wanted to be an lawyer.
+
+## 📫 Contact
+
+ For a quick response, DM me on [instagram](https://www.instagram.com/glow.echo/). 
+
